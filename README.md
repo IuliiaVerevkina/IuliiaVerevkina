@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## My name is Iuliia, I am a frontend developer.
-
+[Linkedin](https://www.linkedin.com/in/iuliia-verevkina/)
 ### 😊 About me:
 <p>
 I like to solve complex problems: create websites and web applications or design websites with an interface.</p>
